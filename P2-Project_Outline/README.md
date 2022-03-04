@@ -35,4 +35,4 @@ React
 Connecting to API
 Connecting Java backend to JS front end
 ### Project Tracker
-https://trello.com/b/9YI5DuBt/liftoff-project
+https://github.com/jtb3566/lift-off-project/projects/1
